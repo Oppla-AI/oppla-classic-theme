@@ -403,8 +403,8 @@
         "terminal.ansi.green": "#28a745",
         "terminal.ansi.bright_green": "#22863a",
         "terminal.ansi.dim_green": "#85e89d",
-        "terminal.ansi.yellow": "#dbab09",
-        "terminal.ansi.bright_yellow": "#b08800",
+        "terminal.ansi.yellow": "#b08800",
+        "terminal.ansi.bright_yellow": "#9d7900",
         "terminal.ansi.dim_yellow": "#ffea7f",
         "terminal.ansi.blue": "#0366d6",
         "terminal.ansi.bright_blue": "#005cc5",
@@ -422,15 +422,25 @@
         "link_text.hover": "#0366d6",
         
         "version_control.added": "#28a745",
-        "version_control.modified": "#dbab09",
+        "version_control.modified": "#b08800",
         "version_control.deleted": "#d73a49",
         "version_control.conflict": "#f9826c",
         "version_control.renamed": "#6f42c1",
         
         "success": "#28a745",
         "error": "#d73a49",
-        "warning": "#dbab09",
+        "warning": "#b08800",
         "info": "#0366d6",
+        
+        "modified": "#9d7900",
+        "modified.background": "#fff5dd",
+        "modified.border": "#f4e7d1",
+        "created": "#22863a",
+        "created.background": "#e6ffed",
+        "created.border": "#c1e9c1",
+        "deleted": "#cb2431",
+        "deleted.background": "#ffeef0",
+        "deleted.border": "#fdb8c0",
         
         "syntax": {
           "attribute": {
