@@ -1,0 +1,10 @@
+id = "oppla-classic"
+name = "Oppla Classic Theme"
+description = "A pleasant, classic theme collection for developers featuring Light, Dark, and Gothic variants"
+version = "1.0.0"
+schema_version = 1
+authors = ["Oppla Team <team@oppla.ai>"]
+repository = "https://github.com/oppla/oppla-classic-theme"
+
+[themes]
+"themes/oppla-classic.json" = ["Oppla Classic Dark", "Oppla Classic Light", "Oppla Gothic"]
